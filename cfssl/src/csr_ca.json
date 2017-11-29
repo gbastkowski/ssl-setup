@@ -1,0 +1,16 @@
+{
+    "CN": "My Computer CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "DE",
+            "L": "Berlin",
+            "O": "enfore AG",
+            "OU": "CA Services",
+            "ST": "Berlin"
+        }
+    ]
+}
